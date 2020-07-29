@@ -1,0 +1,11 @@
+<resources>
+    <string name="foodie_application">Foodie App</string>
+    <string name="image_url">Image URL</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="calories">Calories</string>
+    <string name="link_to_online_recipe">Link to online Recipe</string>
+    <string name="save">Save</string>
+    <string name="input_empty">Input is Empty</string>
+</resources>

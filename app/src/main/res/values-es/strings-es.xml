@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="foodie_application">Mi aplicación</string>
+    <string name="image_url">URL de imagen</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="calories">Calorías</string>
+    <string name="link_to_online_recipe">Enlace a la receta en línea</string>
+    <string name="save">Guardar</string>
+    <string name="input_empty">La entrada está vacía</string>
+</resources>
